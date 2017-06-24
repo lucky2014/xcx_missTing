@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black" ,
+    "navigationBarTitleText": "婷小姐官方旗舰店",
+    "backgroundColor": "red"
+  },
+  "tabBar": {
+    "borderStyle": "#ff6600",
+    "backgroundColor": "black",
+    "backgroundColor": "red",
+    "list": [
+      {
+        "text": "洗护",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "沐浴",
+        "pagePath": "pages/logs/logs"
+      },
+      {
+        "text": "气垫",
+        "pagePath": "pages/logs/logs"
+      }
+    ]
+  } 
+}
